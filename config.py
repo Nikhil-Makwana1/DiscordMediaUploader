@@ -1,1 +1,1 @@
-TOKEN = 'Paste Your Discord BOT Token Here'
+TOKEN = "" # add your bot token here
