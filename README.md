@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#description">Description </a>
   ·
-  <a href="#review">Description </a>
+  <a href="#review">Review </a>
   ·
   <a href="#installation">Installation</a>
   ·
