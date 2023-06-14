@@ -29,9 +29,10 @@ Simply run the bot, and it will monitor a designated folder for new files and up
 
 ## Review
 
-![GIF 1](resource/gif1.gif)
-![GIF 2](resource/gif2.gif)
-
+<p align="center">
+  <img src="resource/gif1.gif">
+  <img src="resource/gif2.gif">
+</p>
 
 ## Installation
 
