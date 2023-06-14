@@ -1,0 +1,8 @@
+This folder contains all the files that are unable to be uploaded due to the size limit for uploading media.
+
+Discord provides different upload size limits based on the server's boost level, which directly affects the capacity for media file uploads.
+
+Base limit: 25MB
+Level 1 Boost Server: 25MB
+Level 2 Boost Server: 50MB
+Level 3 Boost Server: 100MB
