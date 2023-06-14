@@ -33,7 +33,7 @@ To use Discord Media Uploader, follow these steps:
 
 1. Clone the repository or download the source code.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Obtain a Discord bot token. You can create a new bot and obtain the token from the Discord Developer Portal. [Tutorial](bottutorial.md)
+3. Obtain a Discord bot token. You can create a new bot and obtain the token from the Discord Developer Portal. [Tutorial](./bottutorial.md)
 4. Configure the bot settings in the `config.py` file. Set the `TOKEN` variable to your Discord bot token.
 5. Paste all your media files in the `media` folder.
 5. Run the bot by executing the `DiscordMediaUploader.py` file using Python.
