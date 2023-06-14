@@ -13,8 +13,6 @@
   ·
   <a href="#usage">Usage</a>
   ·
-  <a href="#configuration">Configuration</a>
-  ·
    <a href="#features">Features</a>
   ·
   <a href="#contributing">Contributing</a>
@@ -45,12 +43,6 @@ To use Discord Media Uploader, follow these steps:
 2. Drop the files into the `media` folder.
 3. The bot will automatically detect new files in the folder and upload them to the specified channel in your Discord server.
 4. You can monitor the bot's activity through the console output or check the logs for a record of uploaded files.
-
-## Configuration
-
-The `config.py` file contains configuration options that you can customize:
-
-- `TOKEN`: Your Discord bot token.
 
 ## Features
 
