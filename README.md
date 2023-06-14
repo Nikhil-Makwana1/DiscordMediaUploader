@@ -9,6 +9,8 @@
 <p align="center">
   <a href="#description">Description </a>
   ·
+  <a href="#review">Description </a>
+  ·
   <a href="#installation">Installation</a>
   ·
   <a href="#usage">Usage</a>
@@ -24,6 +26,12 @@
 
 Discord Media Uploader is a Python bot that automates the process of uploading files to your Discord server. It allows you to easily share media files, documents, and more with your server members without the need for manual interaction. 
 Simply run the bot, and it will monitor a designated folder for new files and upload them to the server automatically. It saves you time and effort by streamlining the file-sharing process.
+
+## Review
+
+![GIF 1](resource/gif1.gif)
+![GIF 2](resource/gif2.gif)
+
 
 ## Installation
 
